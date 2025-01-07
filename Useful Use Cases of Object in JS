@@ -1,3 +1,7 @@
+In Javascript, we can store data about some thing as key:value pairs using Object.
+
+Let's understand, when should we use Object in js:
+-------------------------------------------------
 1. Grouping Related Data
 When we need to store data about something, like a user, product, or any specific entity, it's better to group related data together. 
 Instead of using separate variables for each item, we can store all the data in an object or an array of objects.
