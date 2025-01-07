@@ -35,7 +35,7 @@ const product = {
 };
 console.log(product.getDiscountedPrice()); 
 
-4.	We can group related methods in an object
+4. We can group related methods in an object
 Eg: const calculator = {
   add: (a, b) => a + b,
   subtract: (a, b) => a - b,
@@ -44,7 +44,7 @@ Eg: const calculator = {
 };
 console.log(calculator.add(10, 5));
 
-5.	 Getting total count of each items in array
+5. Getting total count of each items in array
 - In Case, when we have an array and we need to access total occurence of each item of array, we can use object for making this task more easier.
 Eg: const items = ["apple", "banana", "apple", "orange", "banana", "apple"]; 
     const count = {};
